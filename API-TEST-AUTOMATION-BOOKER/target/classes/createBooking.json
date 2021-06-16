@@ -1,0 +1,11 @@
+{
+    "firstname" : "Saltas",
+    "lastname" : "Onur",
+    "totalprice" : 111,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2021-01-15",
+        "checkout" : "2021-01-17"
+    },
+    "additionalneeds" : "Dinner"
+}
